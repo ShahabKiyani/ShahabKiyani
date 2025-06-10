@@ -29,7 +29,7 @@
 ### 📌 Featured Projects
 
 - 🎙️ **[SpeakHire](https://github.com/ShahabKiyani/SpeakHire)** — AI voice-based mock interview platform  
-- 🗺️ **[HireMap]((https://github.com/ShahabKiyani/HireMap))** — Visual career tracking dashboard  
+- 🗺️ **[HireMap](https://github.com/ShahabKiyani/HireMap)** — Visual career tracking dashboard  
 - 🎟️ **[KiyaniTicketing](https://github.com/ShahabKiyani/KiyaniTicketing)** — Domain-based support ticket system
 
 ---
