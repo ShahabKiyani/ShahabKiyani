@@ -19,7 +19,7 @@
 ### 🚀 My Tech Stack
 
 **Languages:**  
-`JavaScript` `Python` `TypeScript` `SQL` `Java` `C`
+`Python` `JavaScript` `TypeScript` `HTML/CSS` `SQL` `Java` `C`
 
 **Frameworks & Tools:**  
 `React` `Node.js` `Next.js` `MongoDB` `Tailwind` `Supabase` `Firebase` `AWS` `Git` `Vercel`
@@ -28,7 +28,8 @@
 
 ### 📌 Featured Projects
 
-- 🎙️ **[SpeakHire](https://github.com/ShahabKiyani/SpeakHire)** — AI voice-based mock interview platform  
+- 🎙️ **[SpeakHire](https://github.com/ShahabKiyani/Speak-Hire)** — AI voice-based mock interview platform
+- 🧠 **[LLM Inference Attack Analysis](https://github.com/ShahabKiyani/llm-inference-attack-analysis)** — Investigating how large language models leak private data through membership inference attacks
 - 🗺️ **[HireMap](https://github.com/ShahabKiyani/HireMap)** — Visual career tracking dashboard  
 - 🎟️ **[KiyaniTicketing](https://github.com/ShahabKiyani/KiyaniTicketing)** — Domain-based support ticket system
 
@@ -36,8 +37,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahabkiyani)
-- 🧠 [Portfolio (WIP)](https://github.com/ShahabKiyani)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahab-kiyani/)
+- 🧠 [Portfolio](https://portfolio-puce-iota-18.vercel.app/)
 - 🐍 I'm currently prepping for my **senior-year internship** (shoot me a referral 😉)
 
 ---
