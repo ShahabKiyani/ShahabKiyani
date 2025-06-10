@@ -32,6 +32,7 @@
 - 🧠 **[LLM Inference Attack Analysis](https://github.com/ShahabKiyani/llm-inference-attack-analysis)** — Investigating how large language models leak private data through membership inference attacks
 - 🗺️ **[HireMap](https://github.com/ShahabKiyani/HireMap)** — Visual career tracking dashboard  
 - 🎟️ **[KiyaniTicketing](https://github.com/ShahabKiyani/KiyaniTicketing)** — Domain-based support ticket system
+- 🔤 **[Scrabble Game](https://github.com/ShahabKiyani/ScrabbleGame)** — Classic Scrabble built with JavaScript and a custom scoring engine
 
 ---
 
