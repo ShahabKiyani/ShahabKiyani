@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on projects using **AWS**, **React**, **Node.js**, and **Next.js**
 - 🧠 Interested in AI, cloud infrastructure, and scalable systems
 - 🧪 Past research in **Federated Learning & Security**
-- 💬 Always happy to talk about dev tools, boxing, or startup ideas
+- 💬 Always happy to chat and learn about technology!
 
 ---
 
