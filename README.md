@@ -40,7 +40,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahab-kiyani/)
 - 🧠 [Portfolio](https://portfolio-puce-iota-18.vercel.app/)
-- 🐍 I'm currently prepping for my **senior-year internship** (shoot me a referral 😉)
 
 ---
 
