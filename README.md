@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shahab 👋</h1>
 
 <p align="center">
-  <em>CS @ UMass Amherst | SWE Intern @ Best Egg | Builder @ GDSC</em><br>
+  <em>CS @ UMass Amherst | SWE Intern @ Liberty Mutual | Builder @ GDSC</em><br>
   <em>I build full-stack apps that solve real problems with clean code and clean design.</em>
 </p>
 
@@ -9,9 +9,9 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on projects using **AWS**, **React**, **Node.js**, and **Next.js**
+- 🔭 I’m currently working on projects using **TypeScript**, **AWS**, **Python**, and **SupaBase**
 - 🧠 Interested in AI, cloud infrastructure, and scalable systems
-- 🧪 Past research in **Federated Learning & Security**
+- 🧪 Past research in **Federated Learning & Security** and **Information Retrieval**
 - 💬 Always happy to chat and learn about technology!
 
 ---
